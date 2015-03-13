@@ -1,0 +1,13 @@
+Package: stDeaAPI
+Type: Package
+Title: Frontier Analysis Using SpatioTemporal DEA
+Version: 0.1
+Date: 2014-11-16
+Author: Georgios Digkas
+Maintainer: Georgios Digkas <yourfault@somewhere.net>
+Depends:
+    Benchmarking
+Description: More about what it does (maybe more than one line)
+License: GPL (>= 2)
+NeedsCompilation: no
+Repository: CRAN
